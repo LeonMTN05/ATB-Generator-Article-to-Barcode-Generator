@@ -41,6 +41,11 @@ http://your-server-ip-or-domain/
 - **[PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet)** – For exporting data to Excel.
 - **[TCPDF](https://github.com/tecnickcom/TCPDF)** – For generating PDF exports.
 
+## 🔧 Simplicity & Flexibility
+This project is more than just a prototype – it's a **functional and extendable solution** for inventory management. However, it is intentionally kept **simple and modular**, making it easy for anyone with **basic knowledge of HTML and PHP** to modify and extend. 
+
+> "With great simplicity comes great responsibility... or at least fewer debugging nightmares!"
+
 ## 📜 License
 This project is licensed under the **MIT License**.
 
@@ -48,6 +53,9 @@ This project is licensed under the **MIT License**.
 
 **Developed with ❤️ for efficient inventory management.**
 
-🔗 **GitHub Repository:** [ATB-Generator-Article-to-Barcode-Generator](https://github.com/LeonMTN05/ATB-Generator-Article-to-Barcode-Generator.git) 
-
+🔗 **GitHub Repository:** [ATB-Generator-Article-to-Barcode-Generator](https://github.com/LeonMTN05/ATB-Generator-Article-to-Barcode-Generator.git)
 📧 **Discord:** leonmtn05 (No e-mail address is displayed here due to spam).
+
+---
+
+🚀 *If you ever get stuck, remember: ChatGPT is your friend and helper! (No AI was harmed in the making of this project.)*
