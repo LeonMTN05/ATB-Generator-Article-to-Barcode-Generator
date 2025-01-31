@@ -1,0 +1,12 @@
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+.container {
+    max-width: 800px;
+}
+.img-thumbnail {
+    border: 1px solid #ddd;
+    padding: 5px;
+    border-radius: 4px;
+}

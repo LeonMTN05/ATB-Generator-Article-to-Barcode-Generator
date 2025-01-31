@@ -1,0 +1,17 @@
+{
+    "name": "leon-elias-martin/zpvbarcode",
+    "description": "Ein Tool zur Erstellung von Barcodes für die Inventarisierung.",
+    "autoload": {
+        "psr-4": {
+            "LeonEliasMartin\\Zpvbarcode\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Leon-Elias Martin (MTN-IT)"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^3.8"
+    }
+}
